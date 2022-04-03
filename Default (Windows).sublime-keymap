@@ -1,4 +1,5 @@
 [
+	{ "keys": ["ctrl+0"], "command": "reset_font_size" },
 	{ "keys": ["ctrl+pagedown"], "command": "next_view" },
 	{ "keys": ["ctrl+pageup"], "command": "prev_view" }
 ]
