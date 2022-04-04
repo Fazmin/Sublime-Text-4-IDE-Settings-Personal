@@ -12,7 +12,7 @@
 	// Editor settings
 	"overlay_scroll_bars": "disabled",
 	"line_padding_top": 3,
-	"line_padding_bottom": 3,
+	"line_padding_bottom": 4,
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"indent_guide_options": [ "draw_normal", "draw_active" ],  // Highlight active indent
